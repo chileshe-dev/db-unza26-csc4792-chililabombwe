@@ -1,0 +1,14 @@
+item_no|category|project_name|ward|allocation_zmw|sector|status|year|fund
+1|CAPITAL PROJECTS|CAPITAL PROJECTS (parent)|||infrastructure|approved|2024|CDF
+1.1|CAPITAL PROJECTS|Procurement of 600 school desks||1200000.0|education|approved|2024|CDF
+1.2|CAPITAL PROJECTS|Construction of market shelter in Nakatindi ward|Nakatindi|2504486.6|markets|approved|2024|CDF
+1.3|CAPITAL PROJECTS|Construction of market shelter in Kamenza East ward|Kamenza East|2549395.2|markets|approved|2024|CDF
+1.4|CAPITAL PROJECTS|Construction of market shelter in the Central Business District|CBD|1381190.25|markets|approved|2024|CDF
+1.5|CAPITAL PROJECTS|Construction of boundary fence around James Phiri Clinic||182541.7|health|approved|2024|CDF
+1.6|CAPITAL PROJECTS|Construction of Health Post at Butondo|Butondo|1194996.81|health|approved|2024|CDF
+1.7|CAPITAL PROJECTS|Rural Electrification||1000000.0|infrastructure|approved|2024|CDF
+1.8|CAPITAL PROJECTS|Procurement of Ambulance||2300000.0|health|approved|2024|CDF
+1.9|CAPITAL PROJECTS|Procurement of YVTC Bricklaying equipment||530000.0|equipment|approved|2024|CDF
+1.10|CAPITAL PROJECTS|Road maintenance in selected wards||1523236.88|roads|approved|2024|CDF
+1.11|CAPITAL PROJECTS|Procurement of TLB||1800000.0|equipment|approved|2024|CDF
+1.12|CAPITAL PROJECTS|Completion of Kamenza Police Post|Kamenza|423352.68|safety|approved|2024|CDF
