@@ -51,4 +51,7 @@ CC BY 4.0
 ## 👥 Contributors
 
 - Isaiah Chileshe
-- [Add group members here]
+- Inkumbu Chawewa
+- Bright Chingwala
+- Faith Nswana
+- Karen Chipampe 
